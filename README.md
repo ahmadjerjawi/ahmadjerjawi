@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arkipon</h1>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadjerjawi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadjerjawi" /> </p>
 
-- Hi, I'm working on **Llom (Private)**
+- Hi, I'm working on **SLM**
 
 - 🌱 I’m currently learning **C++**
 
