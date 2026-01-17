@@ -5,13 +5,13 @@
 
 - Hi, I'm working on **SLM**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadjerjawi](https://github.com/ahmadjerjawi)
 
 - 💬 Ask me about **Graphic rendering pipeline**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I know programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
